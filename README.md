@@ -7,9 +7,7 @@ This Habit Tracking App allows users to create, manage, and analyze their habits
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [How to Run](#how-to-run)
-- [Contributing](#contributing)
-- [License](#license)
+- [Disclaimer](#Disclaimer)
 
 ## Features
 
